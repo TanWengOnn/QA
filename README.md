@@ -1,0 +1,9 @@
+# QA
+## Assignments
+1. https://docs.google.com/document/d/1Rm1QN7JzU1O7Ed5TiAEghGwDNRv5ZRSQMu_KQn9zqH4/edit?usp=sharing
+2. https://docs.google.com/document/d/1o48o7cWDjqpRTxgrhfL5H8XZDvsrol30DzMzxNWwUDA/edit?usp=sharing
+3. https://docs.google.com/document/d/1CwxYyhaIYi5KdwYWNYCb9yS66o4W6yHHEjjdZ0LzO04/edit?usp=sharing
+4. https://docs.google.com/document/d/1hL3fH1-7cbIotqZ6WYMzTSk3MHPvOlegni9n8Io9DZo/edit?usp=sharing
+5. https://docs.google.com/document/d/1OiSzkMEXs1_LiUr5NGIfcZXxcnOlrCDYCBfw7mC4SpY/edit?usp=sharing
+6. https://docs.google.com/document/d/1vnFiF44mpZWAXfb-k1chzqrM0jufHup25kDHGqp9lLI/edit?usp=sharing 
+7. https://docs.google.com/document/d/14Goo-zh5Z8QoxDinebv24lPFMJSUtjIWGL6ma2JU1IM/edit?usp=sharing 
